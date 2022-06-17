@@ -1,0 +1,51 @@
+id: IDD7DD3D5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:17:38.065689'
+last_modified: '2022-06-17T12:17:38.065699'
+parser: null
+source_metadata:
+  title: Kagyü Series
+  language: en
+  description: 'Texts related to the Kagyü (bka'' brgyud) tradition and its sub-branches:'
+  volume:
+    f5202:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      base_file: f5202.txt
+      order: 1
+      parent: Guru Yoga
+    f5EB8:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      base_file: f5EB8.txt
+      order: 2
+      parent: Guru Yoga
+    fAE19:
+      title: Invoking the Blessings of the Kagyü Lineage—‘Dorjechang Thungma’
+      base_file: fAE19.txt
+      order: 3
+      parent: Lineage Prayers
+    fB9BC:
+      title: Prayer to the Kagyü Masters
+      base_file: fB9BC.txt
+      order: 4
+      parent: Prayers
+    fD4C6:
+      title: 'The Honey of Devotion: A Prayer to the Garland of Glorious Karmapa Incarnations'
+      base_file: fD4C6.txt
+      order: 5
+      parent: Prayers
+    fE4C8:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      base_file: fE4C8.txt
+      order: 6
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
